@@ -44,8 +44,6 @@ drwx--x---  2 researcher2 research_team 4096 Mar 14 18:40 drafts
 
 ---
 
-# FilePermissionsLinux_Portfolio.md
-
 ## Task 3: Change File Permissions
 
 The organization does not allow other users to have write access to any files.
