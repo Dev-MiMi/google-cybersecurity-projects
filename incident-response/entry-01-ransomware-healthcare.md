@@ -9,7 +9,7 @@
 | **Date**     | May 1, 2026                                                                                  |
 | **Entry**    | 1                                                                                            |
 | **Description** | Ransomware attack on a U.S. healthcare clinic causing full operational shutdown and encryption of patient records. |
-| **Tool(s) used** | Phishing email (delivery vector), Malicious attachment (malware dropper), Ransomware (encryption tool). |
+| **Tool(s) used** | None. |
 
 ---
 
