@@ -7,7 +7,7 @@ A comprehensive portfolio of hands-on cybersecurity projects completed during th
 ## 📁 Project Directory
 
 * [🛡️ Incident Response & Ransomware Analysis](./incident-response)
-  * Brief 1-sentence summary of what you did in this lab.
+  * Documented and analyzed a ransomware case study involving healthcare infrastructure, applying the 5 W's framework to identify attack vectors, threat actor motives, and security control gaps.
 * [📊 Security Audits & SQL Vulnerabilities](./security-audits)
   * Brief summary of the SQL queries and frameworks used.
 * [🐍 Python Automation & File Permissions](./os-fundamentals/linux)
