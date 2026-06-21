@@ -11,6 +11,7 @@ A comprehensive portfolio of hands-on cybersecurity projects completed during th
 * [📊 Security Audits](./security-audits)
   * Performed an internal IT audit using the NIST CSF, identifying high-priority control gaps — including missing encryption, no disaster recovery plan, and excessive data access — and delivering a prioritized remediation roadmap.
 * [🔍Apply filter to SQL queries](./homelab-projects)
+  * Queried and filtered employee login and machine data using SQL operators (AND, OR, NOT, LIKE) to investigate potential security incidents, isolate unauthorized access patterns, and support targeted system update decisions across departments.
   
 * [🐍 Python Automation]
   
