@@ -10,11 +10,11 @@ A comprehensive portfolio of hands-on cybersecurity projects completed during th
   * Documented and analyzed a ransomware case study involving healthcare infrastructure, applying the 5 W's framework to identify attack vectors, threat actor motives, and security control gaps.
 * [📊 Security Audits](./security-audits)
   * Performed an internal IT audit using the NIST CSF, identifying high-priority control gaps — including missing encryption, no disaster recovery plan, and excessive data access — and delivering a prioritized remediation roadmap.
-* [Apply filter to SQL queries](./homelabs)
+* [🔍Apply filter to SQL queries](./homelabs)
   
 * [🐍 Python Automation]
   
-* [File Permissions](./os-fundamentals/linux)
+* [🔒File Permissions](./os-fundamentals/linux)
   * Audited and corrected Linux file system permissions using Bash commands (ls -la, chmod) to enforce the principle of least privilege across files and directories for a research team, resolving misconfigurations in user, group, and other access levels.
 * [🌐 Network Security & Packet Analysis](./Networkings)
   * Brief summary of your Wireshark or networking projects.
