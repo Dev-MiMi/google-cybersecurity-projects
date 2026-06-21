@@ -1,6 +1,6 @@
 # Apply Filters to SQL Queries
 
-*Cybersecurity Portfolio Activity | April 2026*
+*April 2026*
 
 ---
 
