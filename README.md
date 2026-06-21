@@ -8,8 +8,8 @@ A comprehensive portfolio of hands-on cybersecurity projects completed during th
 
 * [🛡️ Incident Response & Ransomware Analysis](./incident-response)
   * Documented and analyzed a ransomware case study involving healthcare infrastructure, applying the 5 W's framework to identify attack vectors, threat actor motives, and security control gaps.
-* [📊 Security Audits & SQL Vulnerabilities](./security-audits)
-  * Brief summary of the SQL queries and frameworks used.
+* [📊 Security Audits](./security-audits)
+  * Performed an internal IT audit using the NIST CSF, identifying high-priority control gaps — including missing encryption, no disaster recovery plan, and excessive data access — and delivering a prioritized remediation roadmap.
 * [🐍 Python Automation & File Permissions](./os-fundamentals/linux)
   * Brief summary of your Python scripting or Linux permission work.
 * [🌐 Network Security & Packet Analysis](./Networkings)
