@@ -18,4 +18,4 @@ A comprehensive portfolio of hands-on cybersecurity projects completed during th
 * [🔒File Permissions](./os-fundamentals/linux)
   * Audited and corrected Linux file system permissions using Bash commands (ls -la, chmod) to enforce the principle of least privilege across files and directories for a research team, resolving misconfigurations in user, group, and other access levels.
 * [🌐 Network Security & Packet Analysis](./Networkings)
-  * Brief summary of your Wireshark or networking projects.
+  * Analyzed and captured network traffic using Wireshark and tcpdump, applying both GUI-based and command-line packet inspection techniques to build practical skills in monitoring and interpreting network activity for security investigations.
